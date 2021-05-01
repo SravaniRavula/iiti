@@ -1,0 +1,190 @@
+
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem;
+    font-family: "Source Serif Pro", serif;
+  }
+.details{
+    background-color:#c1c996;
+    margin: 1rem 3rem ;
+    padding:1rem;
+    border-radius: 10px;
+}
+.Content__Section{
+    margin: 1rem 3rem ;
+}
+.student{     
+ float:right; margin-top: -20px; padding-bottom: 100px; border: 3px solid red; background-color:#e4eeb9;width:90%;border:0;height:200%;
+}
+
+.span {
+    font-weight: bold;
+}
+
+.notifications {    
+    border: 4px solid #d1ebf9 ;
+}
+.notifications .header {
+    margin: 1px;
+    text-align: center;
+}
+.notifications .text .content {
+    margin: 1px;
+    text-align: center;
+    font-family: "Source Serif Pro", serif;
+    font-weight: 400;
+    line-height: 2rem;
+    
+}
+
+.content {
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;    
+    margin: 1rem;
+} 
+
+.sub__header{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    color:black
+}
+
+.sub__header:hover{    
+    color:black;
+}
+
+.main__header{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    color:black
+}
+.sub__heading{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 300;
+    font-style: italic;
+    color:black ; 
+    line-height: 2rem;
+}
+
+
+.loginform{
+    float:right;
+     top: 0; 
+      border: 3px solid red; 
+      background-color:#e4eeb9;
+}
+
+.quick_links ul {
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+}
+
+.quick_links ul li {
+    list-style-type: none;
+    margin: 1px 0;
+    background-color: #efefef;    
+    padding: 21.5px 18px;
+}
+
+.quick_links ul li {
+  background-image: linear-gradient(to right, #dfeba9, rgb(243, 227, 170));   
+}
+
+.quick_links ul li:nth-child(2) {
+    background-color: #38a867;
+    color:black;
+}
+
+.quick_links ul li:nth-child(3) {
+    background-color: #6c9ed8;
+    color:rgb(78, 72, 72);
+}
+
+.quick_links ul li a {
+    color: rgb(78, 72, 72);
+    text-decoration: none;
+ }
+ 
+ .quick_links ul li a:hover {
+    padding:0.3rem;
+    background-image: linear-gradient(to right, #fdeba1,   #f59cae); 
+   
+ }
+
+
+.honorable_members{
+    text-align: center;
+    margin-top: 0px; 
+    margin-right: auto;
+     margin-left: auto; 
+     display: flex; 
+     justify-content: center;
+      margin-bottom: 10px !important
+}
+
+.green_btn {
+    background-color: #00923e;
+    padding: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 20px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+
+.emp_login {
+    background-color: #1d2553;
+    padding: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 20px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.news_block{
+    background-color: #e5f5fd;
+    
+}
+
+.news_title {
+    background-color: #96e2f7;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+    padding: 10px;
+}
+
+
+.member{
+    border: 1px solid black;
+    margin:1rem;
+    display: inline;
+}
+
+
+.button {
+    background-color: #5bc0de;
+    border-color: #46b8da;
+    padding: 0.5rem;
+}
+
+.button .a{
+    text-decoration: none;
+}
+
+
+
+.card_info{
+    background-color: rgb(247, 10, 10);
+}
